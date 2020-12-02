@@ -1,6 +1,7 @@
 # mlopt-yogi
 Project on [YOGI Adaptive Method for Nonconvex Optimization](https://papers.nips.cc/paper/8186-adaptive-methods-for-nonconvex-optimization.pdf) for Machine Learning and Optimization course at Rensselaer Polytechnic Institute. This project addresses the disadvantages of current exponential moving average (EMA) adaptive methods for gradient descent and discusses the YOGI method suggested by the paper. We review the advantages, disadvantages, and emperical results from experiments of YOGI.
 
+See our presentation [here](https://rpi.box.com/s/jeon4y0l19n4pvtgxlwldgjtcxbdkvcq)
 
 ### File breakdown:
 * Algorithms_Implementation.ipynb: Comparison of YOGI, ADAM, and Adagrad adaptive methods 
