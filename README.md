@@ -4,6 +4,8 @@ Project on [YOGI Adaptive Method for Nonconvex Optimization](https://papers.nips
 
 ### File breakdown:
 * Algorithms_Implementation.ipynb: Comparison of YOGI, ADAM, and Adagrad adaptive methods 
+* SVM_yogi.ipynb: Implementation of YOGI on SVM
+* Autoencoder_yogi.ipynb: Implementation of YOGI on autoencoder from a homework assignment
 * adaptive-methods-yogi.ipynb: Adapted code from Lecture 14 to compare YOGI algorithms
 * MLOPT-YOGI Final Presentation.pdf: Slide deck presentation
 * MLOPT_Project_Problem_Set.pdf: Set of problems to solve/explore as part of pedagogical aspect
