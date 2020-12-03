@@ -4,11 +4,11 @@ Project on [YOGI Adaptive Method for Nonconvex Optimization](https://papers.nips
 See our presentation [here](https://rpi.box.com/s/jeon4y0l19n4pvtgxlwldgjtcxbdkvcq)
 
 ### File breakdown:
-* Algorithms_Implementation.ipynb: Comparison of YOGI, ADAM, and Adagrad adaptive methods 
-* SVM_yogi.ipynb: Implementation of YOGI on SVM
-* Autoencoder_yogi.ipynb: Implementation of YOGI on autoencoder from a homework assignment
-* adaptive-methods-yogi.ipynb: Adapted code from Lecture 14 to compare YOGI algorithms
+* Algorithms_Implementation.ipynb: Comparison of YOGI, ADAM, and Adagrad adaptive methods in Multiclass Log. Regression, Fashion MNIST
+* SVM_yogi.ipynb: Implementation of YOGI on l2-regularized SVM, using "a9a" UCI Adults Dataset
+* Autoencoder_yogi.ipynb: Implementation of YOGI on autoencoder from HW6, using Fashion MNIST
+* adaptive-methods-yogi.ipynb: Adapted code from Lecture 14 to compare other common First Order Methods & Yogi
 * MLOPT-YOGI Final Presentation.pdf: Slide deck presentation
 * MLOPT_Project_Problem_Set.pdf: Set of problems to solve/explore as part of pedagogical aspect
 * Annotated Proof Outline.pdf: A rudimentary proof outline provided as a learning aid
-* YOGI_lemma_proofs.pdf: Provides intuitive, in-depth proof analysis of the lemmas used.
+* YOGI_lemma_proofs.pdf:  in-depth proof analysis of the lemmas used, to provide more intuition to the proofs
