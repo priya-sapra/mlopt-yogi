@@ -10,3 +10,5 @@ See our presentation [here](https://rpi.box.com/s/jeon4y0l19n4pvtgxlwldgjtcxbdkv
 * adaptive-methods-yogi.ipynb: Adapted code from Lecture 14 to compare YOGI algorithms
 * MLOPT-YOGI Final Presentation.pdf: Slide deck presentation
 * MLOPT_Project_Problem_Set.pdf: Set of problems to solve/explore as part of pedagogical aspect
+* Annotated Proof Outline.pdf: A rudimentary proof outline provided as a learning aid
+* YOGI_lemma_proofs.pdf: Provides intuitive, in-depth proof analysis of the lemmas used.
